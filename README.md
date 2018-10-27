@@ -1,2 +1,3 @@
 # hello-world
-Hello world repo
+
+Just trying to understand github's world. 
